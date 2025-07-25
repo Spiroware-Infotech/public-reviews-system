@@ -79,6 +79,6 @@ o	Manage the abuse or bad comments list in separate screen for future purpose, e
 
 
 
-## Tech Stack: Spring Boot + Spring Security + JWT + Swagger 3 Open API + React JS + Redux
+### Tech Stack: Spring Boot + Spring Security + JWT + Swagger 3 Open API + React JS + Redux
 
 
